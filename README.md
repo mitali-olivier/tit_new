@@ -1,2 +1,7 @@
-# tit_new
+## tit_new
 TIT SCHOOL SOFTWARE RELEASE 1
+
+# BACKEND SERVICES
+- PHP
+- LARAVEL
+- 
